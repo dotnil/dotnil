@@ -1,12 +1,21 @@
-# Hi 🐱‍🚀
+# Hi, I'm Tatiana  🐱‍🚀
 
-I write front-end with Vue3 and learn how to write javascript with functional programming.
-[Exercism.org](https://exercism.org/profiles/dotnil/solutions?order=newest_first)
+JavaScript Developer
+I enjoy building web applications and understanding how they work under the hood.
 
-[Agile](https://agilemanifesto.org/) is important to me.
+## Featured project
 
-My demo project in Vue3 (Composition API, Vite, BEM) is called
-[To-do](https://dotnil.github.io/todo)
+### Hibi
+A fullstack habit tracker built from scratch.
+- Vue 3
+- Node.js
+- Hono
+- PostgreSQL
+- raw SQL
+- dbmate
+- NixOS
 
-A B2B market where I develop the vendor role/dashboard - 'Market-vue'.
-[Market-vue](https://github.com/ksevelyar/market-vue)
+Frontend - https://github.com/dotnil/hibi-vue
+Backend - https://github.com/dotnil/hibi-hono
+
+Demo https://hibiflow.ru/
